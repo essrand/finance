@@ -23,4 +23,56 @@ training your proposal need only be indicative.
 
 Personal Statement:
 
+	Mathematics is my passion. It has always happened that
+	every time my career or academic path has strayed away from
+	applied Mathematics, I end up changing my course to come back
+	to it.
+	
+	I did my undergraduate studies in Bangalore, where after
+	getting a top rank in the Engineering Entrance Exam I was able
+	to take my pick of any college and any field in Bangalore,
+	where admissions are extremely competetive.
+
+	I chose Computer Science in BMS College of
+	Engineering. Computer Science in bangalore was the field where
+	I got introduced to areas of researchs in my studies BMS that are still
+	one of my favorite fields, Such as neural networks, Advanced
+	algorithms and graph theory. 
+
+	(Para about internship in TI, and why I applied to UCSB.)
+
+	In UCSB after taking a mathematically rigorous course in
+	Pattern Recognition in my second quarter there, I realized
+	that's what I wanted to do for my Master's thesis. I took
+	every course in UCSB in the departments of Electrical
+	Engineering and Computer Science that dealt with applied
+	probability, Machine learning or statistics for the next one
+	year.
+
+	In my final year I started working with Professor Matthew Turk
+	from the UCSB department of Computer Science. He is a very
+	famous figure in the field of Computer Vision and Pattern
+	Recognition. He agreed to be my advisor after I did a course
+	in Applied Probability in Computer Science under him.
+
+	One of the biggest lesson I learnt in the field of pattern
+	recognition that I could never have only by taking courses was
+	that pattern recognition was not just a set of algorithms and
+	techniques , the greatest successes in the field happen by
+	completely understanding the data, not by completely
+	understanding the algorithms. You may have a complete
+	understanding of sophisticated algorithms such as Support
+	Vector Machine , ada-boost etc. But unless you completely
+	understand the data and its patterns and characteristics its
+	hard to find the right model for predictive success.
+
+	 
+
+	
+
+	
+	
+
+	
+	
 	
