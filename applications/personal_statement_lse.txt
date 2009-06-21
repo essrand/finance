@@ -66,6 +66,47 @@ Personal Statement:
 	understand the data and its patterns and characteristics its
 	hard to find the right model for predictive success.
 
+	I started to work on my thesis which was understanding
+	biometric data on keyboard typing. Patterns in how people type
+	was an unexplored area then, especially when people are not
+	typing fixed text, but freely type anything they want to.
+	
+	This was a great opportunity to try my ideas on pattern
+	recognition and computational learning on data that has not
+	been previously explored too much.
+
+	I was able to achieve great success in predicting outliers in
+	keyboard biometrics. Within 60 keystrokes of an intruder
+	typing on a computer system trained on its authorized user,
+	the machine learning system was able to detect the intruder.
+
+	My biggest regret has been that I never published my work in
+	any conference, especially since this area suddenly became hot
+	one year after I graduated. 
+
+	For almost 3 years after I graduated I worked as a Research
+	Engineer first in the area Automatic Speech Recognition at
+	Ordinate LLC (Now a part of Pearson Education) where we were
+	working on a ASR system that would grade speakers on their
+	spoken language skills without using any human referees,
+	purely using Speech recognition using Hidden Markov Models.
+	Neural Networks and ideas from Testing theory. The system
+	achieved more than 90% correlations with human
+	testers. Working there one of my best projects was I used a
+	decision tree algorithm that could classify if the speech
+	recognition system did a bad job in recognizing a word. This
+	algorithm did 40% better than internal confidence measure of
+	the ASR system.
+
+	At Wize.com a website that does recommendation for online
+	shopping based crawled consumer reviews. I worked on
+	algorithms that would compute the sentiment of the users on a
+	particular product using ideas from computation natural
+	language processing, I also built their search algorithm.
+
+	 
+
+	 
 	 
 
 	
